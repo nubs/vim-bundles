@@ -22,9 +22,6 @@
 [submodule "vim-markdown"]
 	path = vim-markdown
 	url = git@github.com:tpope/vim-markdown
-[submodule "mustache.vim"]
-	path = mustache.vim
-	url = git@github.com:juvenn/mustache.vim
 [submodule "nginx.vim"]
 	path = nginx.vim
 	url = git@github.com:vim-scripts/nginx.vim
@@ -49,3 +46,6 @@
 [submodule "vim-unimpaired"]
 	path = vim-unimpaired
 	url = git@github.com:tpope/vim-unimpaired
+[submodule "vim-mustache-handlebars"]
+	path = vim-mustache-handlebars
+	url = git@github.com:mustache/vim-mustache-handlebars
