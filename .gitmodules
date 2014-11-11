@@ -49,3 +49,6 @@
 [submodule "vim-mustache-handlebars"]
 	path = vim-mustache-handlebars
 	url = git@github.com:mustache/vim-mustache-handlebars
+[submodule "vim-jade"]
+	path = vim-jade
+	url = git@github.com:digitaltoad/vim-jade
