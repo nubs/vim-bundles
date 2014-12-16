@@ -52,3 +52,6 @@
 [submodule "vim-jade"]
 	path = vim-jade
 	url = git@github.com:digitaltoad/vim-jade
+[submodule "vim-jinja"]
+	path = vim-jinja
+	url = git@github.com:lepture/vim-jinja
