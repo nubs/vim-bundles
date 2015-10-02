@@ -55,3 +55,6 @@
 [submodule "vim-jinja"]
 	path = vim-jinja
 	url = git@github.com:lepture/vim-jinja
+[submodule "vim-css3-syntax"]
+	path = vim-css3-syntax
+	url = git@github.com:hail2u/vim-css3-syntax
