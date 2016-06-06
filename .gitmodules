@@ -61,3 +61,6 @@
 [submodule "vim-scss"]
 	path = vim-scss
 	url = git@github.com:cakebaker/scss-syntax.vim
+[submodule "typescript-vim"]
+	path = typescript-vim
+	url = https://github.com/leafgarland/typescript-vim
