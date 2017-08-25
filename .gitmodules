@@ -67,3 +67,6 @@
 [submodule "vim-nuuid"]
 	path = vim-nuuid
 	url = https://github.com/kburdett/vim-nuuid
+[submodule "vim-terraform"]
+	path = vim-terraform
+	url = https://github.com/hashivim/vim-terraform
