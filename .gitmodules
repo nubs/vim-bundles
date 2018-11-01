@@ -73,6 +73,9 @@
 [submodule "vim-graphql"]
 	path = vim-graphql
 	url = https://github.com/jparise/vim-graphql
-[submodule "vim-javascript-syntax"]
-	path = vim-javascript-syntax
-	url = https://github.com/jelera/vim-javascript-syntax
+[submodule "vim-javascript"]
+	path = vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = git@github.com:mxw/vim-jsx
