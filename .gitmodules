@@ -75,7 +75,10 @@
 	url = https://github.com/jparise/vim-graphql
 [submodule "vim-javascript"]
 	path = vim-javascript
-	url = git@github.com:pangloss/vim-javascript.git
+	url = git@github.com:pangloss/vim-javascript
 [submodule "vim-jsx"]
 	path = vim-jsx
 	url = git@github.com:mxw/vim-jsx
+[submodule "ale"]
+	path = ale
+	url = git@github.com:w0rp/ale
